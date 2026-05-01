@@ -3,7 +3,7 @@ Professional security write-up documenting a high-severity CORS misconfiguration
 [cors-misconfiguration-writeup.md](https://github.com/user-attachments/files/27270693/cors-misconfiguration-writeup.md)
 # CORS Misconfiguration — Arbitrary Origin Trusted with Credentials
 
-**Target:** Open Bugbounty site  
+**Target:** Open Bug bounty site  
 **Date:** 2026-04-26    
 **Severity:** 🔴 High  
 **Status:** Reported  
