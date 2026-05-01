@@ -43,7 +43,7 @@ The vulnerability was confirmed on two endpoints:
 | **OWASP** | A05:2021 — Security Misconfiguration |
 | **Affected Host** | `[target]` |
 | **Affected Endpoints** | `/api/v1/users`, `/api/v1/users/me` |
-| **Authentication Required** | No (users) / Yes (users/me) |
+| **Authentication Required** | No
 | **HTTP Method** | GET |
 
 ---
