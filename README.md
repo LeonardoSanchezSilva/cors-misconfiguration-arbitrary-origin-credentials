@@ -41,7 +41,7 @@ The vulnerability was confirmed on two endpoints:
 | **Vulnerability Class** | CORS Misconfiguration |
 | **CWE** | CWE-942 — Overly Permissive Cross-domain Whitelist |
 | **OWASP** | A05:2021 — Security Misconfiguration |
-| **Affected Host** | `[target]` |
+| **Affected Host** | `site` |
 | **Affected Endpoints** | `/api/v1/users`, `/api/v1/users/me` |
 | **Authentication Required** | No
 | **HTTP Method** | GET |
